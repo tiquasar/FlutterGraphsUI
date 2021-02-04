@@ -8,7 +8,8 @@
  </tr>
  </table>
 <br>This Flutter App uses fl_chart flutter package to implement simple GraphsUI in flutter </br>
-<br>Also has Firebase Authentication Enabled</br>
+<br>Also Firebase Authentication is Enabled</br>
+<br></br>
 
 <table>
   <tr>
