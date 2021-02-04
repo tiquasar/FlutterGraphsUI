@@ -12,12 +12,12 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/tiquasar/FlutterGraphsUI/blob/master/Screenshot/Login_Screen.png" width=570 height=480></td>
-    <td><img src="https://github.com/tiquasar/FlutterGraphsUI/blob/master/Screenshot/Register_Screen.png" width=870 height=480></td>
+    <td><img src="https://github.com/tiquasar/FlutterGraphsUI/blob/master/Screenshot/Login_Screen.png" width=720 height=480></td>
+    <td><img src="https://github.com/tiquasar/FlutterGraphsUI/blob/master/Screenshot/Register_Screen.png" width=720 height=480></td>
     
   </tr>
   <tr>
-    <td><img src="https://github.com/tiquasar/FlutterGraphsUI/blob/master/Screenshot/Startup_Screen.png" width=570 height=480></td>
-    <td><img src="https://github.com/tiquasar/FlutterGraphsUI/blob/master/Screenshot/main_app_ui.png" width=870 height=480></td>
+    <td><img src="https://github.com/tiquasar/FlutterGraphsUI/blob/master/Screenshot/Startup_Screen.png" width=720 height=480></td>
+    <td><img src="https://github.com/tiquasar/FlutterGraphsUI/blob/master/Screenshot/main_app_ui.png" width=720 height=480></td>
   </tr>
  </table>
